@@ -1,3 +1,18 @@
 <resources>
-    <string name="app_name">SimpleBoard</string>
+    <string name="app_name">SimpleKeyboard</string>
+    <string name="simple_ime">Simple IME</string>
+    <string name="subtype_en_US">English (US)</string>
+    <string-array name="asciiArray">
+        <item>＼（＠￣∇￣＠）／</item>
+        <item>ლ(ಠ益ಠ)ლ</item>
+        <item>༼ ༎ຶ ෴ ༎ຶ༽</item>
+        <item>ᕕ( ᐛ )ᕗ</item>
+        <item>(╯°□°）╯︵ ┻━┻</item>
+        <item>༼ つ ◕_◕ ༽つ</item>
+        <item>(✿◠‿◠)</item>
+        <item>( ͡° ͜ʖ ͡°)</item>
+        <item>(ಠ_ಠ)</item>
+        <item>(ﾉﾟ0ﾟ)ﾉ</item>
+        <item>(ಠ_ಠ)┌∩┐ </item>
+    </string-array>
 </resources>
